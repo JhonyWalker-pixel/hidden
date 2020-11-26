@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-This is an animated website to hide a word from the main text. It is simple, but pleasant to see. If you want to see the project running, click [here](https://dribbble.com/)
+I had an idea for animation for a website and decided to see how it would look, and this is the result of an animation to hide a word from the main text. It is simple, but pleasant to see. If you want to see the project running, click [here](https://jhonywalker-pixel.github.io/hidden/)
 
 ## :computer: Languages used
 
