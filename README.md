@@ -7,7 +7,7 @@
 
 I had an idea for animation for a website and decided to see how it would look, and this is the result of an animation to hide a word from the main text. It is simple, but pleasant to see. If you want to see the project running, click [here](https://jhonywalker-pixel.github.io/hidden/)
 
-## :computer: Languages used
+## :computer: Used languages
 
 The best part is that it was just using HTML and CSS.
 
